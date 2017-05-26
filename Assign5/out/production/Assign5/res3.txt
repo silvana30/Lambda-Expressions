@@ -1,0 +1,3 @@
+Leaving		22
+Sleeping	124
+Spare_Time/TV	103
